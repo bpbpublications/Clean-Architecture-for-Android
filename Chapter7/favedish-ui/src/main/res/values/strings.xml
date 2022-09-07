@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dish_loading">Loading…</string>
+    <string name="dish_icon">Dish icon</string>
+    <string name="dish_details_name_label">Dish:</string>
+    <string name="restaurant_details_add_dish_content_description">Add dish</string>
+    <string name="new_dish_add_button_label">Add Dish</string>
+    <string name="new_dish_dish_name_hint">Dish name</string>
+</resources>

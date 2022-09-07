@@ -1,0 +1,3 @@
+package com.favedish.presentation.addnewdish.model
+
+class NewDishPresentationNotification

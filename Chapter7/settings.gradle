@@ -1,0 +1,14 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FaveDish"
+include ':app'
+include ':favedish-ui'
+include ':favedish-presentation'
+include ':favedish-domain'
+include ':favedish-data'
+include ':favedish-datasource'

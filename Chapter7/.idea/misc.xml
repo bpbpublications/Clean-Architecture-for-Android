@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/app/src/main/res/drawable/icon_add_dish.xml" value="0.1065" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/app/src/main/res/layout/fragment_dish_details.xml" value="0.1" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/favedish-ui/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/favedish-ui/src/main/res/layout/fragment_dish_details.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/favedish-ui/src/main/res/layout/fragment_dish_list.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/favedish-ui/src/main/res/layout/fragment_new_dish.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter2/favedish-ui/src/main/res/layout/item_dish.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter7/favedish-ui/src/main/res/layout/fragment_new_dish.xml" value="0.2921875" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/Chapter7/favedish-ui/src/main/res/layout/fragment_restaurant_details.xml" value="0.25625" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/app/src/main/res/layout/activity_main.xml" value="0.5390625" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/app/src/main/res/layout/fragment_dish_details.xml" value="0.5390625" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/app/src/main/res/layout/fragment_dish_list.xml" value="0.3932291666666667" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/app/src/main/res/layout/fragment_new_dish.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/shado/AndroidStudioProjects/FaveDish/app/src/main/res/layout/item_dish.xml" value="0.39375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="idea.plugin.psiviewer.controller.project.PsiViewerProjectService">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+</project>
