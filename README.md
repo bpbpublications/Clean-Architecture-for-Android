@@ -3,7 +3,7 @@
 Architect an android application independent of UI, databases and frameworks
 
 This is the repository for [Clean Architecture for Android
-](https://bpbonline.com/products/clean-architecture-for-android?_pos=1&_sid=e021d5548&_ss=r),published by BPB Publications. 
+](https://bpbonline.com/products/clean-architecture-for-android),published by BPB Publications. 
 
 ## About the Book
 "Clean Architecture for Android" was written to help developers apply Clean Architecture to their projects.
